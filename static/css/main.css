@@ -2593,3 +2593,7 @@ section,
 .starter-section {
   /* Add your styles here */
 }
+.skill-item i {
+  font-size: 24px;
+  margin-right: 8px;
+}
